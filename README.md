@@ -129,3 +129,8 @@ The HULAT1 system is based on **Llama 3.3 70B** accessed via the Groq API. Four 
 
 ---
 
+### Generated datasets
+The following datasets generated during this thesis are included in the repository under `data/generated/`:
+
+- `es_augmented_dataset.csv` — augmented Spanish development set (76 segments), built by running Notebook 2.
+- `feina_sample_346.csv` — random sample of 346 segments from the FEINA corpus, built by running Notebook 4.
