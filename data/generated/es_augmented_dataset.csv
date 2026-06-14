@@ -1,0 +1,262 @@
+document_id,original_sentence_id,original_text,simplified_text,origin
+ES_006,0,¿Con qué profesionales debo contactar?,¿Con qué profesionales debes contactar?,ES original
+ES_006,1,"Abogados o letrados
+
+Los abogados o letrados son aquellos profesionales encargados de la defensa y dirección de las partes en los procedimientos judiciales y administrativos, asumiendo también con carácter amplio labores de asesoramiento y consejo jurídico en el ámbito extrajudicial para evitar conflictos.","Debes contactar con abogados o letrados.
+Los abogados o letrados son los profesionales encargados
+de defender y dirigir los procesos judiciales y administrativos.
+Ellos también pueden asesorarte, orientarte
+y dar consejos para evitar conflictos
+fuera del proceso judicial.",ES original
+ES_006,2,"Su intervención en la Administración Justicia, actuando ante los Juzgados y Tribunales, es esencial para el correcto desarrollo de los procedimientos al asesorar a los ciudadanos e intervinientes sobre los distintos trámites procesales, garantizando así su derecho a la defensa y asistencia Letrada que consagra el artículo 24 de la Constitución.","La función de los abogados y letrados es esencial
+para que los procesos judiciales y administrativos en juzgados y tribunales
+sean correctos.
+Ellos ayudan a los ciudadanos a realizar trámites
+y aseguran que los ciudadanos puedan defenderse
+y tener apoyo legal en un juicio.
+Este derecho está en el artículo 24 de la Constitución española.
+La Constitución es la ley principal y más importante de un Estado.
+Explica la organización del Estado y establece los derechos y deberes de la ciudadanía.",ES original
+ES_006,3,En España los abogados han de ser licenciados en Derecho y estar inscritos en el correspondiente Colegio Profesional.,"Los abogados deben ser licenciados en Derecho
+y estar inscritos en un colegio profesional.
+Un colegio profesional es un registro público
+en el que los profesionales se pueden inscribir.",ES original
+CAT2ES_022,0,"Comenzar a trabajar
+Si quieres realizar una actividad laboral en España, ya sea por cuenta propia o por cuenta de otro, debes obtener el número de la Seguridad Social.","Comenzar a trabajar
+Si queréis trabajar en España, necesitáis un número de la Seguridad Social.
+Esto es necesario tanto si trabajáis para una empresa o persona
+o por vuestra cuenta.",CA→ES
+CAT2ES_022,1,"Este número te identificará en tus relaciones con la Seguridad Social, que es el sistema público de protección ante situaciones de enfermedad, invalidez, paro, vejez, accidentes de trabajo, maternidad o pérdida del sostén de la familia.","¿Cuál es el número de la Seguridad Social?
+Es un número personal que os identifica en vuestras relaciones con la Seguridad social.
+La Seguridad Social es un sistema público que asegura a las personas 
+una serie de prestaciones mínimas para estas situaciones:
+- recibir ayuda si estáis enfermos,
+- cobrar el paro si os quedáis sin trabajo,
+- tener protección si tenéis un accidente laboral,
+- cobrar una pensión cuando os jubiléis,
+- y recibir ayudas por maternidad u otras situaciones.",CA→ES
+CAT2ES_022,2,"La obtención de tu número de la Seguridad Social es un paso previo y necesario para poder solicitar el alta a la Seguridad Social, que es lo que realmente permite el inicio de una actividad laboral.","Para poder empezar a trabajar debéis solicitar el alta en la Seguridad Social.
+Para hacer el alta necesitaréis vuestro número de la Seguridad Social.",CA→ES
+CAT2ES_022,3,Darse de alta en la Seguridad Social es obligatorio para comenzar una actividad laboral.,Darse de alta en la Seguridad Social es obligatorio para comenzar una actividad laboral.,CA→ES
+CAT2ES_022,4,"•	Si tienes que trabajar por cuenta de otro, es la empresa o la persona empleadora la que tiene que tramitar tu alta en el régimen general de la Seguridad Social.","¿Quién se da de alta en la Seguridad Social?
+Si trabajáis para una empresa o para otra persona,
+la empresa es la que ha de dar el alta en la Seguridad Social.",CA→ES
+CAT2ES_022,5,"•	Si has de trabajar por cuenta propia, eres tú quien ha de solicitar el alta en el régimen especial de trabajadores autónomos (RETA) de la Seguridad Social.","Si trabajáis por vuestra cuenta,
+vosotros mismos tendréis que hacer el alta en el RETA.
+El RETA es el sistema especial de los autónomos de la Seguridad Social.",CA→ES
+CAT2ES_022,6,"Además, en caso de que trabajes por tu cuenta, tendrás que inscribirte o darte de alta en el censo de empresarios, profesionales y retenedores de la Agencia Tributaria.","Si trabajáis por vuestra cuenta, también os daréis de alta
+al censo de empresarios y profesionales de la Agencia Tributaria.",CA→ES
+IT2ES_051,0,"Dios, Patria y partido
+Cómo la centroderecha gobierna con el apoyo variado del mundo católico
+
+La influencia de la Iglesia católica en la política italiana ha cambiado profundamente: ya no existe un “partido de los católicos”, pero las huellas permanecen, en los símbolos, en los lenguajes, en las elecciones legislativas.","La política y la religión
+Ahora tenemos un gobierno de partidos de centroderecha. La Iglesia católica lo sostiene.
+Antes, la Iglesia católica tenía mucha influencia sobre la política en Italia. Hoy esta influencia ha cambiado mucho. No hay más un partido de los católicos.
+Pero la Iglesia es siempre importante en política. Se ve en los símbolos, en las palabras usadas y en las leyes.",IT→ES
+IT2ES_051,1,"Para comprender cuánto cuenta todavía hoy el mundo religioso, hemos realizado una investigación en dos artículos: este que están leyendo está dedicado a los partidos en el gobierno, mientras que aquí encontrará el otro artículo, dedicado a los partidos en la oposición.","Queremos entender cuánto la religión es importante en la política hoy. Para esto, hemos escrito 2 artículos.
+En este artículo hablamos de los partidos en el gobierno. El otro artículo es sobre los partidos que no están en el gobierno. Lo encontráis aquí.",IT→ES
+IT2ES_051,2,"Mitines abiertos en el nombre de María, consignas que entrelazan identidad nacional y fe religiosa.",Encuentros en el nombre de María y frases que unen la patria y la religión,IT→ES
+IT2ES_051,3,"En los últimos años, a la derecha, la religión ha vuelto a aparecer en la escena política de manera explícita y a veces espectacular.","En los últimos años, los partidos de derecha hablan de nuevo mucho de religión. Lo hacen de manera directa y a menudo muy fuerte.",IT→ES
+IT2ES_051,4,"En octubre de 2019, Giorgia Meloni subía a un escenario en Roma y pronunciaba una frase que se convertiría en el manifiesto de su identidad política: «Yo soy Giorgia, soy una mujer, soy una madre, soy italiana, soy cristiana».","Giorgia Meloni es del partido Fratelli d'Italia. En octubre de 2019, hizo un discurso en Roma. Dijo: ""Yo soy Giorgia, soy una mujer, soy una madre, soy italiana, soy cristiana"". Esta frase muestra cómo Giorgia Meloni se ve en la política.",IT→ES
+IT2ES_051,5,"Pocos meses antes, Matteo Salvini había esgrimido un rosario durante un mitin en la plaza del Duomo en Milán, invocando la protección del «corazón inmaculado de María».","Matteo Salvini forma parte del partido Lega Nord. Pocos meses antes, habló en la plaza del Duomo en Milán. Mostró un rosario y pidió ayuda a la Madonna.",IT→ES
+IT2ES_051,6,"Eran señales claras: la derecha italiana quería volver a hablar el lenguaje de la tradición, y la religión católica ofrecía símbolos potentes para hacerlo.",Era un mensaje claro: los partidos de derecha quieren usar palabras e ideas tradicionales. La religión católica tiene símbolos fuertes para hacerlo.,IT→ES
+IT2ES_051,7,"Y ahora que gobierna el País, la derecha ha transformado esas señales con actos políticos, nombramientos y alianzas.","Ahora los partidos de derecha están en el gobierno italiano. Han realizado su mensaje:
+* con sus decisiones
+* con sus elecciones de personas para puestos importantes
+* con nuevos acuerdos",IT→ES
+ES_006_bt_round1,0,¿Con qué expertos debo ponerme en contacto!,¿Con qué especialistas deberías ponerte en contacto?,BT: ES→EN→DE→EN→ES
+ES_006_bt_round1,1,"Abogados o Abogadas
+
+Los abogados o abogadas son aquellos profesionales que son responsables de la defensa y representación de las partes en procedimientos judiciales y administrativos, y que también asumen tareas asesoras y legales integrales en el ámbito extrajudicial para evitar conflictos.","Debes contactar a abogados o abogadas.
+Los abogados o abogadas son los expertos que son responsables de la defensa y gestión 
+de los procedimientos judiciales y administrativos.
+También pueden asesorar, dirigir 
+y dar consejos para evitar conflictos 
+fuera de los procedimientos judiciales.",BT: ES→EN→DE→EN→ES
+ES_006_bt_round1,2,"Su intervención en la administración de justicia, actuando ante los tribunales y juzgados, es de importancia esencial para el correcto desarrollo de los procedimientos, ya que asesora a los ciudadanos y partes involucradas en las distintas fases del procedimiento, y así garantiza su derecho a la defensa y asistencia jurídica, que está consagrado en el artículo 24 de la Constitución.","La función de los abogados y procuradores es esencial
+para que los procedimientos judiciales y administrativos en los tribunales y juzgados
+sean correctos.
+Ayudan a los ciudadanos a llevar a cabo los procedimientos
+y aseguran que los ciudadanos puedan defenderse
+y tener apoyo legal en un proceso.
+Este derecho está consagrado en el artículo 24 de la Constitución española.
+La Constitución es la ley más importante y significativa de un estado.
+Explica la organización del estado y establece los derechos y deberes de la ciudadanía.",BT: ES→EN→DE→EN→ES
+ES_006_bt_round1,3,"En España, los abogados deben ser licenciados en derecho y estar registrados en la organización profesional correspondiente.","Los abogados deben estar licenciados en ciencias jurídicas
+y registrados en una organización profesional.
+Una organización profesional es un registro público,
+en el que los profesionales pueden registrarse.",BT: ES→EN→DE→EN→ES
+CAT2ES_022_bt_round1,0,"Inicio del trabajo
+Si desea realizar un trabajo remunerado en España, ya sea como autónomo o como empleado de otra persona, debe obtener un número de la seguridad social.","Comienzo del trabajo
+Si desea trabajar en España, necesita un número de seguridad social.
+Esto es obligatorio, ya sea que trabaje para una empresa o una persona
+o por cuenta propia.",BT: ES→EN→DE→EN→ES
+CAT2ES_022_bt_round1,1,"Este número te identificará en tus relaciones con el seguro social, que es el sistema público de protección contra situaciones de enfermedad, discapacidad, desempleo, vejez, accidentes de trabajo, maternidad o pérdida del sostén de la familia.","¿Cuál es el número de seguro social?
+Es un número personal que te identifica en tus relaciones con el seguro social.
+El seguro social es un sistema público que ofrece a las personas 
+una serie de beneficios mínimos para estas situaciones:
+- recibir ayuda cuando estás enfermo,
+- recibir el subsidio de desempleo cuando pierdes tu trabajo,
+- protección cuando tienes un accidente laboral,
+- recibir una pensión cuando te jubilas,
+- y recibir apoyo para la maternidad u otras situaciones.",BT: ES→EN→DE→EN→ES
+CAT2ES_022_bt_round1,2,"Obtener tu número de seguridad social es un paso previo y necesario para poder solicitar la inscripción en el sistema de seguridad social, que en realidad permite el inicio de una actividad laboral.","Para poder empezar a trabajar, debes registrarte con el seguro social.
+Para realizar el registro, necesitas tu número de seguro social.",BT: ES→EN→DE→EN→ES
+CAT2ES_022_bt_round1,3,Registro con el seguro social es obligatorio para ejercer un empleo remunerado.,El registro con el seguro social es obligatorio para ejercer un empleo remunerado.,BT: ES→EN→DE→EN→ES
+CAT2ES_022_bt_round1,4,"•	Si tienes que trabajar para otra persona, es la empresa o empleador quien debe ocuparse de tu inscripción en el sistema general de seguro social.","¿Quién se registra para el seguro social?
+Si trabajas para una empresa o para otra persona,
+es la empresa la que debe registrarse para el seguro social.",BT: ES→EN→DE→EN→ES
+CAT2ES_022_bt_round1,5,"•	Si trabajas solo, eres la persona que debe presentar la solicitud de inscripción en el régimen especial de trabajadores autónomos (RETA) de la Seguridad Social.","Si trabajas por tu propia cuenta,
+debes registrarte en la RETA tú mismo.
+La RETA es el sistema especial para los autónomos de la seguridad social.",BT: ES→EN→DE→EN→ES
+CAT2ES_022_bt_round1,6,"Además, si trabajas de forma independiente, debes registrarte o estar inscrito en el registro de empresarios, autónomos y representantes autorizados de la autoridad fiscal.","Cuando trabajas por cuenta propia, también te registrarás 
+con el censo de empresarios y autónomos de la autoridad fiscal.",BT: ES→EN→DE→EN→ES
+IT2ES_051_bt_round1,0,"Dios, Patria y Partido
+Cómo gobierna el Gobierno de Centro-Derecha con el variado apoyo del mundo católico
+
+La influencia de la Iglesia Católica en la política italiana ha cambiado profundamente: ya no hay un ""Partido de los Católicos"", pero las huellas permanecen, en los símbolos, en los lenguajes, en las elecciones legislativas.","Política y Religión
+Ahora tenemos un partido de gobierno de centro-derecha. La Iglesia Católica lo apoya.
+Anteriormente, la Iglesia Católica tenía una gran influencia en la política en Italia. Hoy en día, esta influencia ha cambiado mucho. Ya no hay partido católico.
+Pero la Iglesia siempre es importante en la política. Se puede ver en los símbolos, en las palabras utilizadas, y en las leyes.",BT: ES→EN→DE→EN→ES
+IT2ES_051_bt_round1,1,"Para entender cuánto cuenta todavía el mundo religioso hoy en día, realizamos una investigación en dos artículos: este, que estás leyendo, está dedicado a los partidos del gobierno, mientras que puedes encontrar el otro artículo aquí, que está dedicado a los partidos de la oposición.","Queremos entender cuán importante es la religión en la política hoy en día. Con este fin, hemos escrito 2 artículos.
+En este artículo hablamos de los partidos en el gobierno. El otro artículo trata sobre los partidos que no están en el gobierno. Puedes encontrarlo aquí.",BT: ES→EN→DE→EN→ES
+IT2ES_051_bt_round1,2,"Manifestaciones en el nombre de María, consignas que vinculan la identidad nacional y la fe religiosa.",Reuniones en el nombre de María y frases que unen la patria y la religión,BT: ES→EN→DE→EN→ES
+IT2ES_051_bt_round1,3,"En los últimos años, la religión ha reaparecido en el escenario político de una manera explícita y a veces espectacular en la derecha.","En los últimos años, los partidos extremistas de derecha han vuelto a hablar de la religión, y mucho. 
+Lo hacen de manera directa y a menudo muy fuerte.",BT: ES→EN→DE→EN→ES
+IT2ES_051_bt_round1,4,"En octubre de 2019, Giorgia Meloni subió a un escenario en Roma y pronunció una frase que se convertiría en el manifiesto de su identidad política: «Soy Giorgia, soy una mujer, soy una madre, soy italiana, soy cristiana».","Giorgia Meloni es del partido Fratelli d'Italia.
+En octubre de 2019 pronunció un discurso en Roma.
+Dijo: ""Soy Giorgia, soy una mujer, soy una madre, soy italiana, soy cristiana"".
+Esta oración muestra cómo Giorgia Meloni se ve a sí misma en la política.",BT: ES→EN→DE→EN→ES
+IT2ES_051_bt_round1,5,"Unos pocos meses antes, Matteo Salvini había agitado un rosario durante un mitin en la Piazza del Duomo de Milán e invocado la protección del ""corazón inmaculado de María"".","Matteo Salvini es parte del partido Lega Nord. Unos meses antes, habló en la Piazza del Duomo en Milán. Mostró un rosario y pidió ayuda a la Madonna.",BT: ES→EN→DE→EN→ES
+IT2ES_051_bt_round1,6,"Eran señales claras: la derecha italiana quería hablar de nuevo el lenguaje de la tradición, y la religión católica ofrecía poderosos símbolos para hacerlo.",Era un mensaje claro: los partidos de derecha quieren utilizar palabras y ideas tradicionales. La religión católica tiene fuertes símbolos para hacer esto.,BT: ES→EN→DE→EN→ES
+IT2ES_051_bt_round1,7,"Y ahora, como gobierna la tierra, la Derecha ha transformado esos signos con actos políticos, nombramientos y alianzas.","Ahora los partidos políticos de derecha están en el gobierno italiano. Han hecho su mensaje:
+* con sus decisiones
+* con su selección de personas para puestos importantes
+* con nuevos acuerdos",BT: ES→EN→DE→EN→ES
+ES_006_bt_round2,0,¿Con qué profesionales debo contactar?,¿Con qué profesionales debe ponerse en contacto?,BT: ES→FR→PT→ES
+ES_006_bt_round2,1,"Abogados o juristas
+
+Los abogados o juristas son aquellos profesionales encargados de la defensa y de la dirección de las partes en los procedimientos judiciales y administrativos, asumiendo también con un carácter amplio las tareas de asesoramiento y consulta jurídica en el dominio extrajudicial para evitar los conflictos.","Debe contactar a abogados o juristas.
+Los abogados o los juristas son los profesionales encargados
+de defender y de dirigir los procedimientos judiciales y administrativos.
+También pueden aconsejarlo, orientarlo
+y darle consejos para evitar conflictos
+fuera del proceso judicial.",BT: ES→FR→PT→ES
+ES_006_bt_round2,2,"Su intervención en la Administración de Justicia, actuando ante los Tribunales y las Cortes, es esencial para el buen funcionamiento de los procedimientos, asesorando a los ciudadanos y a las partes interesadas sobre los diferentes procedimientos judiciales, garantizando así su derecho a la defensa y a la asistencia jurídica que consagra el artículo 24 de la Constitución.","La función de los abogados y los juristas es esencial
+para que los procedimientos judiciales y administrativos en los tribunales y las cortes
+sean correctos.
+Ellos ayudan a los ciudadanos a realizar procedimientos
+y aseguran que los ciudadanos puedan defenderse
+y tener un apoyo jurídico durante un juicio.
+Este derecho está inscrito en el artículo 24 de la Constitución española.
+La Constitución es la ley principal y más importante de un Estado.
+Ella explica la organización del Estado y establece los derechos y los deberes de la ciudadanía.",BT: ES→FR→PT→ES
+ES_006_bt_round2,3,"En España, los abogados deben tener licenciatura en derecho y estar inscritos en el colegio profesional correspondiente.","Los abogados deben ser licenciados en Derecho
+y estar inscritos en un colegio profesional.
+Un colegio profesional es un registro público
+en el cual los profesionales pueden inscribirse.",BT: ES→FR→PT→ES
+CAT2ES_022_bt_round2,0,"Comenzar a trabajar
+Si desea ejercer una actividad profesional en España, sea por cuenta propia o para cuenta de otro, debe obtener el número de la Seguridad Social.","Comenzar a trabajar
+Si usted desea trabajar en España, usted necesita un número de la Seguridad Social.
+Esto es necesario tanto si usted trabaja para una empresa o una persona
+o por su propia cuenta.",BT: ES→FR→PT→ES
+CAT2ES_022_bt_round2,1,"Este número lo identificará en sus relaciones con la Seguridad Social, que es el sistema público de protección frente a situaciones de enfermedad, invalidez, desempleo, vejez, accidentes de trabajo, maternidad o pérdida del apoyo de la familia.","¿Cuál es el número de la Seguridad Social ?
+Es un número personal que lo identifica en sus relaciones con la Seguridad Social.
+La Seguridad Social es un sistema público que asegura a las personas 
+una serie de prestaciones mínimas para estas situaciones :
+- recibir ayuda si usted está enfermo,
+- recibir el desempleo si usted pierde su empleo,
+- tener una protección si usted tiene un accidente de trabajo,
+- recibir una pensión cuando usted se jubile,
+- y recibir ayuda para la maternidad u otras situaciones.",BT: ES→FR→PT→ES
+CAT2ES_022_bt_round2,2,"La obtención de su número de Seguridad Social es una etapa previa y necesaria para poder solicitar la inscripción en la Seguridad Social, que es lo que realmente permite el inicio de una actividad profesional.","Para poder comenzar a trabajar, usted debe solicitar el registro en la Seguridad Social.
+Para hacer el registro, usted necesitará su número de Seguridad Social.",BT: ES→FR→PT→ES
+CAT2ES_022_bt_round2,3,Inscribirse en la Seguridad Social es obligatorio para comenzar una actividad profesional.,Inscribirse en la Seguridad Social es obligatorio para comenzar una actividad profesional.,BT: ES→FR→PT→ES
+CAT2ES_022_bt_round2,4,"•	Si tiene que trabajar para otra persona, es la empresa o la persona empleadora quien debe encargarse de su inscripción en el régimen general de la Seguridad Social.","¿Quién se inscribe en el Seguro Social ?
+Si usted trabaja para una empresa o para otra persona,
+la empresa es aquella que debe inscribirlo en el Seguro Social.",BT: ES→FR→PT→ES
+CAT2ES_022_bt_round2,5,"•	Si usted debe trabajar por cuenta propia, es usted quien debe solicitar el registro en el régimen especial de los trabajadores independientes (RETA) de la Seguridad Social.","Si trabajan por cuenta propia,
+ustedes mismos deberán hacer la inscripción en el RETA.
+El RETA es el sistema especial de los independientes de la Seguridad Social.",BT: ES→FR→PT→ES
+CAT2ES_022_bt_round2,6,"Además, en el caso de que trabaje por cuenta propia, deberá registrarse o inscribirse en el censo de empresarios, profesionales y titulares de renta de la Agencia Fiscal.","Si trabaja por cuenta propia, también se inscribirá 
+en el censo de empresarios y profesionales de la Agencia Fiscal.",BT: ES→FR→PT→ES
+IT2ES_051_bt_round2,0,"Dios, Patria y partido
+Como la derecha moderada gobierna con el apoyo variado del mundo católico
+
+La influencia de la Iglesia católica sobre la política italiana ha cambiado profundamente: no existe más un « partido de los católicos », pero las marcas permanecen, en los símbolos, en las lenguas, en las elecciones legislativas.","La política y la religión
+Ahora tenemos un gobierno de partidos de centro-derecha. La Iglesia católica lo apoya.
+Antiguamente, la Iglesia católica tenía mucha influencia sobre la política en Italia. Hoy esa influencia ha cambiado mucho. No hay más un partido de los católicos.
+Pero la Iglesia sigue siendo importante en la política. Esto se ve en los símbolos, en las palabras usadas y en las leyes.",BT: ES→FR→PT→ES
+IT2ES_051_bt_round2,1,"Para comprender hasta qué punto el mundo religioso cuenta todavía hoy, realizamos una investigación en dos artículos: lo que usted lee está consagrado a los partidos en el gobierno, mientras que usted encontrará aquí el otro artículo, consagrado a los partidos en la oposición.","Nosotros queremos entender hasta qué punto la religión es importante en la política hoy. Para ello, escribimos 2 artículos.
+En este artículo, hablamos de los partidos en el gobierno. El otro artículo trata de los partidos que no están en el gobierno. Lo encontrarás aquí.",BT: ES→FR→PT→ES
+IT2ES_051_bt_round2,2,"Reuniones abiertas en nombre de Marie, slogans que entrelazan identidad nacional y fe religiosa.",Encuentros en nombre de Marie y frases que unen la patria y la religión,BT: ES→FR→PT→ES
+IT2ES_051_bt_round2,3,"En los últimos años, a la derecha, la religión ha vuelto al escenario político de manera explícita y a veces espectacular.","En los últimos años, los partidos de derecha hablan nuevamente mucho de religión. Lo hacen de manera directa y frecuentemente muy fuerte.",BT: ES→FR→PT→ES
+IT2ES_051_bt_round2,4,"En octubre de 2019, Giorgia Meloni subía a un escenario en Roma y pronunciaba una frase que se convertiría en el manifiesto de su identidad política: « Yo soy Giorgia, yo soy una mujer, yo soy una madre, yo soy italiana, yo soy cristiana ».","Giorgia Meloni es del partido Fratelli d'Italia. En octubre de 2019, ella hizo un discurso en Roma. Ella dijo: ""Yo soy Giorgia, yo soy una mujer, yo soy una madre, yo soy italiana, yo soy cristiana"". Esa frase muestra cómo Giorgia Meloni se ve en la política.",BT: ES→FR→PT→ES
+IT2ES_051_bt_round2,5,"Pocos meses antes, Matteo Salvini había agitado un tercio durante un mitin en la plaza del Duomo, en Milán, invocando la protección del ""corazón inmaculado de María"".","Matteo Salvini forma parte del partido Lega Nord. Algunos meses antes, él habló en la plaza del Duomo en Milán. Él mostró un tercio y pidió ayuda a la Madonna.",BT: ES→FR→PT→ES
+IT2ES_051_bt_round2,6,"Eran señales claros: la derecha italiana quería nuevamente hablar el lenguaje de la tradición, y la religión católica ofrecía símbolos poderosos para ello.",Era un mensaje claro: los partidos de derecha quieren utilizar palabras e ideas tradicionales. La religión católica tiene símbolos fuertes para esto.,BT: ES→FR→PT→ES
+IT2ES_051_bt_round2,7,"Y ahora que la derecha gobierna el País, ella transformó esos signos en actos políticos, nombramientos y alianzas.","Ahora, los partidos de derecha están en el gobierno italiano. Ellos pasaron su mensaje:
+* con sus decisiones
+* con sus elecciones de personas para cargos importantes
+* con nuevos acuerdos",BT: ES→FR→PT→ES
+ES_006_bt_round3,0,¿A quién debo contactar?,¿A qué profesionales deberías contactar?,BT: ES→EN→ZH→EN→ES
+ES_006_bt_round3,1,"Abogado o Abogado Defensor
+
+Abogado o abogado defensor es un profesional responsable de defender y guiar a las partes en procedimientos judiciales y administrativos, mientras también realiza una amplia gama de tareas de asesoramiento y asesoría legal para evitar conflictos fuera de la esfera judicial.","Debes contactar a un abogado o a un despacho de abogados.
+Un abogado o un despacho de abogados son profesionales responsables de la defensa y la dirección
+de procedimientos judiciales y administrativos.
+También pueden proporcionarte asesoramiento, guiarte
+y ofrecerte sugerencias para evitar conflictos
+fuera de los procedimientos judiciales.",BT: ES→EN→ZH→EN→ES
+ES_006_bt_round3,2,"Su intervención en la administración de justicia, actuando en el ámbito judicial y extrajudicial, es crucial para el correcto desarrollo del procedimiento, ya que garantiza el derecho de defensa y asistencia jurídica de los ciudadanos y los intervinientes al brindarles asesoramiento sobre los diferentes pasos procesales, derechos consagrados en el artículo 24 de la Constitución.","Las funciones de los abogados y abogados defensores son cruciales para el correcto desarrollo de los procedimientos judiciales y administrativos en los juzgados y tribunales.
+Ayudan a los ciudadanos con los procedimientos legales
+y aseguran que los ciudadanos puedan defenderse
+y recibir apoyo legal en los juicios.
+Este derecho está consagrado en el artículo 24 de la Constitución española.
+La Constitución es la ley principal del país y la ley más importante.
+Explica la organización del país y establece los derechos y obligaciones de los ciudadanos.",BT: ES→EN→ZH→EN→ES
+ES_006_bt_round3,3,"En España, los abogados deben ser licenciados en derecho y deben estar registrados con la asociación profesional correspondiente.","Abogados deben estar licenciados en el campo del derecho
+y registrados en una asociación profesional.
+La asociación profesional es un registro público
+donde los profesionales pueden registrarse.",BT: ES→EN→ZH→EN→ES
+CAT2ES_022_bt_round3,0,"Comenzar a trabajar
+Si desea realizar una actividad laboral en España, ya sea como autónomo o empleado por otros, debe obtener un número de Seguridad Social.","Empezar a trabajar
+Si deseas trabajar en España, necesitas un número de seguridad social.
+Ya sea que trabajes para una empresa o una persona
+o por tu propia cuenta, esto es necesario.",BT: ES→EN→ZH→EN→ES
+CAT2ES_022_bt_round3,1,"Este número lo identificará en sus relaciones con la Seguridad Social, un sistema de protección pública contra la enfermedad, la discapacidad, el desempleo, la vejez, los accidentes de trabajo, el embarazo y el parto, o la pérdida del sostén principal de una familia.","¿Qué es un número de seguro social?
+Es un número personal que se utiliza para identificar su relación con el seguro social.
+El seguro social es un sistema público que garantiza que las personas reciban una serie de beneficios mínimos en las siguientes situaciones:
+- Si está enfermo, puede recibir asistencia,
+- Si está desempleado, puede recibir beneficios de desempleo,
+- Si tiene una lesión relacionada con el trabajo, puede recibir protección,
+- Cuando se jubile, puede recibir una pensión,
+- Y puede recibir asistencia en casos de nacimiento o otras situaciones.",BT: ES→EN→ZH→EN→ES
+CAT2ES_022_bt_round3,2,"Obtener tu número de seguridad social es un paso previo y necesario para poder solicitar el registro de seguridad social, lo que en realidad permite el inicio de la actividad laboral.","Para empezar a trabajar, debes solicitar al organismo de seguridad social el registro.
+Para realizar el registro, necesitas tu número de seguridad social.",BT: ES→EN→ZH→EN→ES
+CAT2ES_022_bt_round3,3,El registro en la institución de seguridad social es una condición necesaria para iniciar las actividades laborales.,Registro para la seguridad social es una necesidad para iniciar actividades laborales.,BT: ES→EN→ZH→EN→ES
+CAT2ES_022_bt_round3,4,"•	Si debes trabajar para otros, entonces es la empresa o empleador quien debe ocuparse de tu inscripción en el sistema general de seguridad social.","¿Quién necesita registrarse con la Oficina de Seguridad Social!
+Si trabajas para una empresa o alguien más,
+es la empresa la que necesita registrarse con la Oficina de Seguridad Social.",BT: ES→EN→ZH→EN→ES
+CAT2ES_022_bt_round3,5,"•	Si necesita trabajar por su cuenta, debe solicitar su inscripción en el régimen especial de la Seguridad Social para trabajadores autónomos (RETA).","Si trabajas en tu propio nombre,
+tendrás que registrarte en RETA tú mismo.
+RETA es un sistema especial establecido en la seguridad social para los autónomos.",BT: ES→EN→ZH→EN→ES
+CAT2ES_022_bt_round3,6,"Además, si trabaja por su cuenta, necesitará registrarse con las autoridades fiscales como autónomo, profesional o agente de retención.","Si eres autónomo, también necesitarás registrarte ante la autoridad fiscal en el registro de empresarios y profesionales.",BT: ES→EN→ZH→EN→ES
+IT2ES_051_bt_round3,0,"Dios, patria y partido
+Cómo la derecha centrista gobierna con apoyo católico diversificado
+
+La influencia de la Iglesia Católica en la política italiana ha sufrido una transformación profunda: ya no existe un ""partido católico"", pero sus huellas permanecen, en símbolos, en lenguaje, en elecciones legislativas.","Política y Religión
+Ahora tenemos un gobierno de partido de centro-derecha. La Iglesia Católica lo apoya.
+En el pasado, la Iglesia Católica tenía una gran influencia en la política italiana. Hoy en día esta influencia ha cambiado mucho. No hay partido católico ya.
+Pero la Iglesia siempre es importante en la política. Se refleja en los símbolos, en el lenguaje utilizado y en las leyes.",BT: ES→EN→ZH→EN→ES
+IT2ES_051_bt_round3,1,"Para entender cuánta influencia sigue teniendo el mundo de la religión hoy en día, realizamos una encuesta, dividida en dos artículos: el que está leyendo ahora, que específicamente discute partidos en el gobierno, y aquí puede encontrar el otro, que específicamente discute partidos en la oposición.","Queremos entender cuán importante es la religión en la política de hoy. Para hacer esto, escribimos 2 artículos.
+En este artículo, estamos discutiendo partidos en el gobierno. El otro artículo es sobre partidos que no están en el gobierno, que puedes encontrar aquí.",BT: ES→EN→ZH→EN→ES
+IT2ES_051_bt_round3,2,"Manifestaciones celebradas en el nombre de María, con consignas que entrelazan la identidad nacional y la fe religiosa.",Reuniones celebradas en el nombre de María y frases de unidad de patria y religión,BT: ES→EN→ZH→EN→ES
+IT2ES_051_bt_round3,3,"En años recientes, a la derecha, la religión ha reaparecido en el escenario político de una manera visible y a veces espectacular.","En los últimos años, los partidos de derecha también han comenzado a discutir la religión de manera extensiva. 
+Su enfoque para la discusión es directo, y a menudo muy intenso.",BT: ES→EN→ZH→EN→ES
+IT2ES_051_bt_round3,4,"En octubre de 2019, Giorgia Meloni subió a un escenario en Roma y dijo una frase que se convertiría en el manifiesto de su identidad política: ""Soy Giorgia, soy una mujer, soy una madre, soy italiana, soy cristiana"".","Giorgia Meloni proviene del partido Hermanos de Italia. En octubre de 2019, dio un discurso en Roma. Ella dijo: ""Soy Giorgia, soy una mujer, soy una madre, soy italiana, soy cristiana"". Esta oración muestra cómo Giorgia Meloni se ve a sí misma en la política.",BT: ES→EN→ZH→EN→ES
+IT2ES_051_bt_round3,5,"Hace varios meses, Matteo Salvini blandió un rosario en un mitin en la Plaza del Duomo de Milán, rezando para pedir protección del ""Corazón Inmaculado de la Virgen"".","Matteo Salvini es miembro del partido Liga Norte. Hace unos meses, dio un discurso en la Piazza Duomo en Milán. Mostró un rosario y pidió la ayuda de la Virgen María.",BT: ES→EN→ZH→EN→ES
+IT2ES_051_bt_round3,6,"Son señales evidentes: la derecha italiana quiere volver a utilizar el lenguaje tradicional, y el catolicismo proporciona un poderoso símbolo para esto.",Ese fue un mensaje claro: el partido de derecha quería utilizar palabras y ideas tradicionales. El catolicismo tiene fuertes símbolos para hacerlo.,BT: ES→EN→ZH→EN→ES
+IT2ES_051_bt_round3,7,"Ahora que gobierna el país, la derecha ha convertido estas señales en acción a través de actos políticos, nombramientos y alianzas.","Los partidos de derecha ahora son dominantes en el gobierno italiano. Han transmitido su mensaje:
+* a través de sus decisiones
+* a través de las personas que eligen para puestos importantes
+* a través de nuevos acuerdos",BT: ES→EN→ZH→EN→ES
